@@ -6,5 +6,4 @@ After downloading, make it executable, then
 type: ```./postman.sh install```
 
 # Uninstall
-After downloading, make it executable, then
-type ```./postman.sh uninstall```
+simply type ```./postman.sh uninstall```
