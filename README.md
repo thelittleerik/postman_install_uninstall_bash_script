@@ -3,8 +3,8 @@ This bash script automatically installs or uninstalls Postman on Linux (Tried it
 
 # Install
 After downloading, make it executable, then
-Type: ```./postman.sh install```
+type: ```./postman.sh install```
 
 # Uninstall
 After downloading, make it executable, then
-Type ```./postman.sh uninstall```
+type ```./postman.sh uninstall```
